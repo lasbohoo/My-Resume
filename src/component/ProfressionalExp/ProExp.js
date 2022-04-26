@@ -4,12 +4,12 @@ function ProExp() {
   return (
     <div>
         <h4 className='header'>Profressional Experience</h4>
-        <div>
+        <div className='up'>
             <p className='p'>03/2022 - present</p>
             <p className='p'>Lagos Nigeria</p>
             <p className='eheader'>React Developer Intern</p>
             <p className='sch'> Zummit Africa</p>
-            <ul className='exp'>
+            <ul className='exp1'>
                 <li>Responsible for the client side of the company's website, as a frontend developer, working with react using material ui.</li>
   
             </ul>
