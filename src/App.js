@@ -5,6 +5,7 @@ import PersonalSummary from './component/Profile/PersonalSummary';
 import ProExp from './component/ProfressionalExp/ProExp';
 import Skill from './component/Skills/Skill';
 import Ref from './component/Ref/Ref';
+import './component/detail.css';
 
 function App() {
   return (
